@@ -20,7 +20,7 @@ See the [change log](CHANGELOG.md) for changes and road map.
 - Alteração de Contato
 - Exclusão de Contato
 
-Para o dia 08/11(último dia do curso) apresentar uso de REST API com o HttpClient em cima da aplicação Campus Project 
+Para o dia 08/11(último dia do curso) apresentar uso de REST API com o HttpClient em cima da aplicação Campus Project que estará publicada em um servidor Cloud (Somee Hosting ou UOL Host)
 
 
 ## Contribute

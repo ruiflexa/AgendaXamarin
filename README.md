@@ -15,18 +15,13 @@ See the [change log](CHANGELOG.md) for changes and road map.
 
 ## Features
 
-- Feature 1
-- Feature 2
-  - Sub feature
+- Cadastro de Contato
+- Listagem de Contatos
+- Alteração de Contato
+- Exclusão de Contato
 
-### Feature 1
-Describe feature 1. Add screenshots/code samples etc.
+Para o dia 08/11(último dia do curso) apresentar uso de REST API com o HttpClient em cima da aplicação Campus Project 
 
-### Feature 2
-Describe feature 2. Add screenshots/code samples etc.
-
-#### Sub feature
-Describe sub feature. Add screenshots/code samples etc.
 
 ## Contribute
 Check out the [contribution guidelines](CONTRIBUTING.md)
